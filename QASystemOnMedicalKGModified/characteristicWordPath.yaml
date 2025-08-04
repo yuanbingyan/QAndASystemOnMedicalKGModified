@@ -1,0 +1,9 @@
+paths:
+  disease: 'dict/disease.txt'
+  department: 'dict/department.txt'
+  check: 'dict/check.txt'
+  drug: 'dict/drug.txt'
+  food: 'dict/food.txt'
+  producer: 'dict/producer.txt'
+  symptom: 'dict/symptom.txt'
+  deny: 'dict/deny.txt'
